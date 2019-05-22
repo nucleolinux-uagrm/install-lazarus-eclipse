@@ -40,9 +40,9 @@ git clone https://github.com/nucleolinux-uagrm/install-lazarus-eclipse
 
 cd install-lazarus-eclipse
 
-chmod +x laz-clipse-installer-ubuntu
+chmod +x laz-clipse-installer-ubuntu.sh
 
-sudo ./laz-clipse-installer-ubuntu
+sudo ./laz-clipse-installer-ubuntu.sh
 
 
 # INSTALACION EN FEDORA 
@@ -51,9 +51,9 @@ git clone https://github.com/nucleolinux-uagrm/install-lazarus-eclipse
 
 cd install-lazarus-eclipse
 
-chmod +x laz-clipse-installer-fedora
+chmod +x laz-clipse-installer-fedora.sh
 
-sudo ./laz-clipse-installer-fedora
+sudo ./laz-clipse-installer-fedora.sh
 
 
 
