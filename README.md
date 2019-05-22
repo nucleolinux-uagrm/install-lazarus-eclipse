@@ -36,9 +36,9 @@ instalar Git
 
 # INSTALACION EN UBUNTU 
 
-git clone https://github.com/FershoUno/Laz-clipse-Installer-Ubun-Fedo
+git clone https://github.com/nucleolinux-uagrm/install-lazarus-eclipse
 
-cd Laz-clipse-Installer-Ubun-Fedo
+cd install-lazarus-eclipse
 
 chmod +x laz-clipse-installer-ubuntu
 
@@ -47,9 +47,9 @@ sudo ./laz-clipse-installer-ubuntu
 
 # INSTALACION EN FEDORA 
 
-git clone https://github.com/FershoUno/Laz-clipse-Installer-Ubun-Fedo
+git clone https://github.com/nucleolinux-uagrm/install-lazarus-eclipse
 
-cd Laz-clipse-Installer-Ubun-Fedo
+cd install-lazarus-eclipse
 
 chmod +x laz-clipse-installer-fedora
 
