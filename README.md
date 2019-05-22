@@ -1,4 +1,4 @@
-# Laz-clipse-Installer-Ubun-Fedo
+# install-lazarus-eclipse
 
 
 Nucleo Linux UAGRM   
